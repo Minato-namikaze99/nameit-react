@@ -1,3 +1,25 @@
+## NAME IT!
+
+Made while watching a tutorial, LOL
+Basically a name generator, generates names based on the given keywords....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
